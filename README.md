@@ -71,3 +71,5 @@ Kubernetes | *TO-DO* | *TO-DO*
 dns | *TO-DO* | *TO-DO*
 
 Deepdive into Dapr Service Discovery - <WIP>
+
+![image info](./DaprOrderProcessor_nameresolution_flow.png)
