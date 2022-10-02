@@ -72,4 +72,4 @@ dns | *TO-DO* | *TO-DO*
 
 Deepdive into Name Resolution - <WIP>
 
-![Dapr Name Resolution Flow](.\DaprOrderProcessor_nameresolution_flow.jpg)
+![DaprOrderProcessor_nameresolution_flow](https://user-images.githubusercontent.com/3939554/193449263-266f3caf-fcdd-479d-a6a7-247ba8a1cfc4.jpg
