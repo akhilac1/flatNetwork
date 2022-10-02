@@ -70,6 +70,6 @@ Hashicorp Consul | Supports Multi-cluster federation via Mesh-gateway | Yes
 Kubernetes | *TO-DO* | *TO-DO*
 dns | *TO-DO* | *TO-DO*
 
-Deepdive into Dapr Service Discovery - <WIP>
+Deepdive into Name Resolution - <WIP>
 
-![image info](./DaprOrderProcessor_nameresolution_flow.png)
+![Dapr Name Resolution Flow](./DaprOrderProcessor_nameresolution_flow.jpg)
