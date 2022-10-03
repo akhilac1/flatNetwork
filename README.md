@@ -72,4 +72,4 @@ dns | *TO-DO* | *TO-DO*
 
 Deepdive into Name Resolution - <WIP>
 
-![DaprNameResolution_0 1](https://user-images.githubusercontent.com/3939554/193627883-a24bd7c0-447a-470f-96ec-930a0df4861c.png)
+![DaprNameResolution_0 1](https://user-images.githubusercontent.com/3939554/193641131-a1efce31-5dae-48eb-a02c-f3fbaa152519.png)
