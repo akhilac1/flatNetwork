@@ -175,7 +175,7 @@ There are to options to enable selecective end-point discovery for an App in a m
 We propose managing the configuration per App as the recommended approach to enable cross cluster communication in Dapr.
 
 #### <b>TO-DO</b> Proposed proto structure for cluster configuration data
-#### <b>TO-DO</b>Illustration on new nameresolution for cross cluster
+#### <b>TO-DO</b> Illustration on new nameresolution for cross cluster
 
 <!-- 
 Cluster Resolution Service :
