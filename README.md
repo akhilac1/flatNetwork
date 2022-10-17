@@ -188,7 +188,7 @@ Cluster Resolution Service :
 
 ~~As illustrated in the sequence diagram,service invocation relies on the ability to locate the endpoint that can provide the desired service. All through service invocation flow, the involved client and server IPs are reachable. We proceed with the same underlying assumption and focus on discoverability of these services for service invocation.~~
 
-~~A new control plane service - Cluster Resolution Service [CRS] is proposed to be embedded into Dapr Placement Service. the objective of Dapr Placement Service is to detect the~~
+![DaprNameResolution_0 1](https://user-images.githubusercontent.com/3939554/193641131-a1efce31-5dae-48eb-a02c-f3fbaa152519.png)
 
 -->
 ## Additional References
